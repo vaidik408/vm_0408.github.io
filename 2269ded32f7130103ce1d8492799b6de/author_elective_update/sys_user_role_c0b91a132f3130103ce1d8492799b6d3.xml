@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_680354_needit.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_680354_needit.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-11 12:53:32</sys_created_on>
+        <sys_id>c0b91a132f3130103ce1d8492799b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_680354_needit.user</sys_name>
+        <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
+        <sys_update_name>sys_user_role_c0b91a132f3130103ce1d8492799b6d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-11 12:53:32</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">2269ded32f7130103ce1d8492799b6de</application>
+        <file_path/>
+        <instance_id>3de15075db7f53400e785d00cf96191b</instance_id>
+        <instance_name>dev69452</instance_name>
+        <name>sys_user_role_c0b91a132f3130103ce1d8492799b6d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_680354_needit.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>x_680354_needit.user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-11 12:53:32</sys_created_on><sys_id>c0b91a132f3130103ce1d8492799b6d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_680354_needit.user</sys_name><sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package><sys_policy/><sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope><sys_update_name>sys_user_role_c0b91a132f3130103ce1d8492799b6d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-11 12:53:32</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>381192742</payload_hash>
+        <record_name>x_680354_needit.user</record_name>
+        <reverted_from/>
+        <source>e269ded32f7130103ce1d8492799b6e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-11 12:53:32</sys_created_on>
+        <sys_id>48b91a132f3130103ce1d8492799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b35466afe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-11 12:53:32</sys_updated_on>
+        <type>Role</type>
+        <update_guid>80b91a13683130107153a2a5fcc9ecd7</update_guid>
+        <update_guid_history>80b91a13683130107153a2a5fcc9ecd7:381192742</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_680354_needit.user">23ad53e72f7130103ce1d8492799b69c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 12:29:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>1525bac1d6fb4d75b919b85722e5e6e1</sys_id>
+        <sys_metadata>c0b91a132f3130103ce1d8492799b6d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_680354_needit.user</sys_name>
+        <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
+        <sys_scope_delete display_value="">2c77ec8aa1564e2ebaa32bed3009fe49</sys_scope_delete>
+        <sys_update_name>sys_user_role_c0b91a132f3130103ce1d8492799b6d3</sys_update_name>
+        <sys_update_version display_value="sys_user_role_c0b91a132f3130103ce1d8492799b6d3">48b91a132f3130103ce1d8492799b6d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 12:29:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

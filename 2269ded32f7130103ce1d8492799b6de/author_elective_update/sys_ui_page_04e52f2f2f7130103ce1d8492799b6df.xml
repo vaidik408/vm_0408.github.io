@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_680354_needit_.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name/>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 13:04:52</sys_created_on>
+        <sys_id>04e52f2f2f7130103ce1d8492799b6df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
+        <sys_update_name>sys_ui_page_04e52f2f2f7130103ce1d8492799b6df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 13:04:52</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">2269ded32f7130103ce1d8492799b6de</application>
+        <file_path/>
+        <instance_id>3de15075db7f53400e785d00cf96191b</instance_id>
+        <instance_name>dev69452</instance_name>
+        <name>sys_ui_page_04e52f2f2f7130103ce1d8492799b6df</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script/&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_680354_needit_.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name/&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-08-12 13:04:52&lt;/sys_created_on&gt;&lt;sys_id&gt;04e52f2f2f7130103ce1d8492799b6df&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Needit" source="x_680354_needit"&gt;2269ded32f7130103ce1d8492799b6de&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Needit"&gt;2269ded32f7130103ce1d8492799b6de&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_04e52f2f2f7130103ce1d8492799b6df&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-08-12 13:04:52&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-233279564</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e269ded32f7130103ce1d8492799b6e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 13:04:53</sys_created_on>
+        <sys_id>44e52f2f2f7130103ce1d8492799b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b3a7729210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 13:04:53</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>8ce52f2ffe71301015ba04e46697c4e1</update_guid>
+        <update_guid_history>8ce52f2ffe71301015ba04e46697c4e1:-233279564</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 13:05:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>05db27c06ef24752878c66e1b253eec9</sys_id>
+        <sys_metadata>04e52f2f2f7130103ce1d8492799b6df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
+        <sys_scope_delete display_value="">2c77ec8aa1564e2ebaa32bed3009fe49</sys_scope_delete>
+        <sys_update_name>sys_ui_page_04e52f2f2f7130103ce1d8492799b6df</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_04e52f2f2f7130103ce1d8492799b6df">44e52f2f2f7130103ce1d8492799b6e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 13:05:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
