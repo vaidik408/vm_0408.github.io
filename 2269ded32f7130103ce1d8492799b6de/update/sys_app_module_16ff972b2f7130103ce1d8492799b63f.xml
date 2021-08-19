@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>16ff972b2f7130103ce1d8492799b63f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>CREATE NEW</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
@@ -32,11 +32,11 @@
         <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
         <sys_update_name>sys_app_module_16ff972b2f7130103ce1d8492799b63f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-12 12:43:11</sys_updated_on>
+        <sys_updated_on>2021-08-17 04:47:20</sys_updated_on>
         <timeline_page/>
         <title>CREATE NEW</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>user</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

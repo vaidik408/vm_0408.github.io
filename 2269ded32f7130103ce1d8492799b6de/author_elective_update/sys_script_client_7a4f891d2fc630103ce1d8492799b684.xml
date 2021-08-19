@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>false</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Needitobally-scoped client-side scripts </name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 12:36:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a4f891d2fc630103ce1d8492799b684</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Needitobally-scoped client-side scripts </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
+        <sys_update_name>sys_script_client_7a4f891d2fc630103ce1d8492799b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 13:48:56</sys_updated_on>
+        <table>x_680354_needit_needit</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view>user</view>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">2269ded32f7130103ce1d8492799b6de</application>
+        <file_path/>
+        <instance_id>3de15075db7f53400e785d00cf96191b</instance_id>
+        <instance_name>dev69452</instance_name>
+        <name>sys_script_client_7a4f891d2fc630103ce1d8492799b684</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;false&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Needitobally-scoped client-side scripts &lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-08-17 12:36:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;7a4f891d2fc630103ce1d8492799b684&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Needitobally-scoped client-side scripts &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Needit" source="x_680354_needit"&gt;2269ded32f7130103ce1d8492799b6de&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Needit"&gt;2269ded32f7130103ce1d8492799b6de&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_7a4f891d2fc630103ce1d8492799b684&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-08-18 13:48:56&lt;/sys_updated_on&gt;&lt;table&gt;x_680354_needit_needit&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view&gt;user&lt;/view&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2077637800</payload_hash>
+        <record_name>Needitobally-scoped client-side scripts </record_name>
+        <reverted_from/>
+        <source>23f581012fc2b0103ce1d8492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 13:48:56</sys_created_on>
+        <sys_id>8889626d2f4630103ce1d8492799b61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b5985a8b40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 13:48:56</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>c089626d3a4630106591f00a26b4ec1e</update_guid>
+        <update_guid_history>c089626d3a4630106591f00a26b4ec1e:2077637800,f64f099d05c6301033fb001db59ce5b2:944267035</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-19 11:07:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>04c85d0df38b4268b735dc8414391204</sys_id>
+        <sys_metadata>7a4f891d2fc630103ce1d8492799b684</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needitobally-scoped client-side scripts </sys_name>
+        <sys_package display_value="Needit" source="x_680354_needit">2269ded32f7130103ce1d8492799b6de</sys_package>
+        <sys_parent display_value="Needit">a9bd5fa72f7130103ce1d8492799b6e8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Needit">2269ded32f7130103ce1d8492799b6de</sys_scope>
+        <sys_scope_delete display_value="">2c77ec8aa1564e2ebaa32bed3009fe49</sys_scope_delete>
+        <sys_update_name>sys_script_client_7a4f891d2fc630103ce1d8492799b684</sys_update_name>
+        <sys_update_version display_value="sys_script_client_7a4f891d2fc630103ce1d8492799b684">8889626d2f4630103ce1d8492799b61e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-19 11:07:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
